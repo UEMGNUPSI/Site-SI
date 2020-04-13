@@ -35,7 +35,7 @@
 }
 .magazine-category-title > a {
   display: inline-block;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 .magazine-category-title > a:hover,

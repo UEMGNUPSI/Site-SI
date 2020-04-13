@@ -100,11 +100,11 @@ html[dir="ltr"] .off-canvas-right.t3-off-canvas {
 }
 .t3-off-canvas {
   background: #ffffff;
-  color: #ffffff;
+  color: #000000;
 }
 .t3-off-canvas .t3-off-canvas-header {
   background: #eeeeee;
-  color: #ffffff;
+  color: #000000;
   padding: 6px 12px;
 }
 .t3-off-canvas .t3-off-canvas-header h2 {
@@ -638,11 +638,11 @@ html[dir="ltr"] .off-canvas-right.old-ie .t3-off-canvas {
 }
 .t3-off-canvas {
   background: #ffffff;
-  color: #ffffff;
+  color: #000000;
 }
 .t3-off-canvas .t3-off-canvas-header {
   background: #eeeeee;
-  color: #ffffff;
+  color: #000000;
   padding: 0 12px 0 0;
   height: 55px;
 }

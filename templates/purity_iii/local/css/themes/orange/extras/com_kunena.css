@@ -99,7 +99,7 @@
 }
 #kunena.layout .navbar .mobile-user {
   border-radius: 0;
-  color: #ffffff;
+  color: #000000;
   margin-right: 0;
   margin-top: 0 !important;
   padding: 0;
@@ -107,7 +107,7 @@
 #kunena.layout .navbar .mobile-user .dropdown-toggle {
   background-color: transparent;
   border-radius: 0;
-  color: #ffffff;
+  color: #000000;
   padding: 5px 10px;
   line-height: 20px;
 }
@@ -211,7 +211,7 @@
   width: 250px;
 }
 #kunena.layout .navbar .mobile-user #nav-menu.dropdown-menu a {
-  color: #ffffff;
+  color: #000000;
 }
 #kunena.layout .navbar .mobile-user #nav-menu.dropdown-menu a:hover,
 #kunena.layout .navbar .mobile-user #nav-menu.dropdown-menu a:focus,
@@ -528,7 +528,7 @@
   margin-bottom: 5px;
 }
 #kunena.layout .kfrontend .section table ul.list-inline li a {
-  color: #ffffff;
+  color: #000000;
 }
 #kunena.layout .kfrontend .section table ul.list-inline li a i {
   color: #999999;

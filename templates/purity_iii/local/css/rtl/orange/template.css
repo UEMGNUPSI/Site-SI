@@ -2338,7 +2338,7 @@ dl.tabs dt.tabs h3 {
   font-size: 14px;
 }
 dl.tabs dt.tabs h3 a {
-  color: #ffffff;
+  color: #000000;
   outline: none;
 }
 dl.tabs dt.tabs h3 a:hover,
@@ -3003,7 +3003,7 @@ a.list-group-item.active:focus .list-group-item-text {
   margin-bottom: 10px;
 }
 .t3-footer-sl .t3-module .module-title {
-  color: #ffffff;
+  color: #000000;
   font-size: 18px;
   margin-bottom: 10px;
 }
@@ -3435,7 +3435,7 @@ a.list-group-item.active:focus .list-group-item-text {
 @media screen and (min-width: 768px) {
   .support-policy .row-body .col-type {
     background: transparent;
-    color: #ffffff;
+    color: #000000;
   }
 }
 .support-policy .row-body .col-level {
